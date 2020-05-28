@@ -1,65 +1,54 @@
-#include <iostream>
 #include <bits/stdc++.h>
 
 using namespace std;
 
-vector<int> path;
+const int maxn = 1e5+10;
 
-int dfs(int node, vector<int> graph[], bool visited[], int element){
+vector<int> graph[maxn];
 
-    visited[node] = true;
-    path.push_back(node);
-    if(node == element){
-	return node;
-    }else{
-	    for(int i = 0; i < graph[node].size(); i++){
-		if(visited[graph[node][i]] == false){
-		    return dfs(graph[node][i], graph, visited, element);
-		}else if(visited[graph[node][i]] == true && (i == graph[node].size() - 1)){
-		    path.pop_back();
-		    return dfs(path[path.size() - 1], graph, visited, element);
-		}
-	    }
+bool visited[maxn];
+int comp[maxn];
+
+void dfs(int u, int cc){
+
+    visited[u] = true;
+    comp[u] = cc;
+
+    for(auto node : graph[u]){
+        if(!visited[node]){
+            dfs(node, cc);
+        }
     }
 
-    return 0;
-
 }
-vector<int> getPath(){
 
-    return path;
-
-}
 int main(){
 
-    int node;
+    int n, m;//nós e arestas
+    cin>>n;
+    cin>>m;
 
-    cin >> node;
+    for (int i = 1; i <= m; i++)
+    {
+        int u, v;
+        scanf("%d %d", &u, &v);
 
-    vector<int> v[node];
-    bool visited[node];
+        //bi-direcional
+        graph[u].push_back(v);
+        graph[v].push_back(u);
 
-    for(int i = 0; i < node; i++){
-        visited[i] = false;
     }
-    ///graph = [[1, 2],[0],[0]] -> [nó][conexões]
     
-    
-    v[0].push_back(1);
-    v[0].push_back(2);
+    int cc = 0;
 
-    v[1].push_back(0);
-   
-    
-    v[2].push_back(0);
-    
-    dfs(0, v, visited, 0);
-    vector<int> p = getPath();
-
-    for(int i = 0; i < p.size(); i++){
-        printf("%d ", p[i]);
+    for (int i = 1; i <= n; i++)
+    {
+        if(!visited[i]){
+            dfs(i, ++cc);
+        } 
     }
-    printf("\n");
-    
+    printf("%d\n", (comp[1]==comp[3]));
+    cout<<cc;
+
     return 0;
 }
