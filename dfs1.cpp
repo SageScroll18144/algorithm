@@ -24,7 +24,7 @@ void dfs(int u, int cc){
 
 int main(){
 
-    int n, m;//nós e aresta
+    int n, m;//nós e arestas
     cin>>n;
     cin>>m;
 

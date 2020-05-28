@@ -9,12 +9,12 @@ vector<int> graph[maxn];
 bool visited[maxn];
 
 void bfs(int s){
-    
+
 }
 
 int main(){
 
-    int n, m;//nós e aresta
+    int n, m;//nós e arestas
     cin>>n;
     cin>>m;
 
