@@ -9,6 +9,24 @@ vector<int> graph[maxn];
 bool visited[maxn];
 
 void bfs(int s){
+    
+    queue<int> fila;
+    fila.push(s);
+    visited[s] = true;
+
+    while (!fila.empty())
+    {
+        int u = fila.front();
+        fila.pop();
+        for (auto v : graph[u])
+        {
+            if(!visited[v]){
+                fila.push(v);
+                visited[v] = true;
+            }
+        }
+        
+    }
 
 }
 
@@ -29,7 +47,7 @@ int main(){
 
     }
     
-   
+    bfs(1);//primeiro nó pai
 
     return 0;
 }
