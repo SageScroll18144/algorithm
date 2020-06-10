@@ -6,7 +6,7 @@ Repositório com alguns algoritmos para competição
 - [dfs.cpp](https://github.com/SageScroll18144/algorithm/blob/master/dfs.cpp)
 - [dfs1.cpp](https://github.com/SageScroll18144/algorithm/blob/master/dfs1.cpp)
 
-## [DFS-GRID](https://medium.com/@ojhasaurabh2099/traversing-a-grid-using-dfs-ac7a391f7af8)
+## [DFS-Grid](https://medium.com/@ojhasaurabh2099/traversing-a-grid-using-dfs-ac7a391f7af8)
 
 - [dfs_grid.cpp](https://github.com/SageScroll18144/algorithm/blob/master/dfs_grid.cpp)
 
@@ -18,7 +18,7 @@ Repositório com alguns algoritmos para competição
 
 - [bfs_min_path.cpp](https://github.com/SageScroll18144/algorithm/blob/master/bfs_min_path.cpp)
 
-## [TOPOSORT](https://en.wikipedia.org/wiki/Topological_sorting)
+## [Toposort](https://en.wikipedia.org/wiki/Topological_sorting)
 
 - [toposort.cpp](https://github.com/SageScroll18144/algorithm/blob/master/toposort.cpp)
 
