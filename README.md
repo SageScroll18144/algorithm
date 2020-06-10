@@ -5,6 +5,9 @@ Repositório com alguns algoritmos para competição
 - [dfs.cpp](https://github.com/SageScroll18144/algorithm/blob/master/dfs.cpp)
 - [dfs1.cpp](https://github.com/SageScroll18144/algorithm/blob/master/dfs1.cpp)
 
+## [DFS-GRID](https://medium.com/@ojhasaurabh2099/traversing-a-grid-using-dfs-ac7a391f7af8)
+- [dfs_grid.cpp](https://github.com/SageScroll18144/algorithm/blob/master/dfs_grid.cpp)
+
 ## [BFS](https://pt.wikipedia.org/wiki/Busca_em_largura)
 - [bfs.cpp](https://github.com/SageScroll18144/algorithm/blob/master/bfs.cpp)
 
