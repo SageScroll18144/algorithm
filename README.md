@@ -22,6 +22,10 @@ Repositório com alguns algoritmos para competição
 
 - [toposort.cpp](https://github.com/SageScroll18144/algorithm/blob/master/toposort.cpp)
 
+## [Bicolorable Graph](https://www.geeksforgeeks.org/bipartite-graph/)
+
+- [bicolorable.cpp](https://github.com/SageScroll18144/algorithm/blob/master/bicolorable.cpp)
+
 ## [Binary_Search](https://pt.wikipedia.org/wiki/Pesquisa_bin%C3%A1ria)
 
 - [bs.cpp](https://github.com/SageScroll18144/algorithm/blob/master/bs.cpp)
