@@ -29,6 +29,9 @@ Repositório com alguns algoritmos para competição
 ## Find Cycle using DFS
 
 - [ciclo.cpp](https://github.com/SageScroll18144/algorithm/blob/master/ciclo.cpp)
+
+## Find Cycle using BFS
+
 - [toposort.cpp](https://github.com/SageScroll18144/algorithm/blob/master/toposort.cpp)
 
 ## [Dijkstra](https://pt.wikipedia.org/wiki/Algoritmo_de_Dijkstra)
