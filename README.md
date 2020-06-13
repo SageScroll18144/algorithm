@@ -26,9 +26,10 @@ Repositório com alguns algoritmos para competição
 
 - [bicolorable.cpp](https://github.com/SageScroll18144/algorithm/blob/master/bicolorable.cpp)
 
-## Find Cicle using DFS
+## Find Cycle using DFS
 
 - [ciclo.cpp](https://github.com/SageScroll18144/algorithm/blob/master/ciclo.cpp)
+- [toposort.cpp](https://github.com/SageScroll18144/algorithm/blob/master/toposort.cpp)
 
 ## [Dijkstra](https://pt.wikipedia.org/wiki/Algoritmo_de_Dijkstra)
 
