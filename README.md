@@ -1,10 +1,15 @@
 # algorithm
+
 Repositório com alguns algoritmos para competição
 
 ## [DFS](https://pt.wikipedia.org/wiki/Busca_em_profundidade)
 
 - [dfs.cpp](https://github.com/SageScroll18144/algorithm/blob/master/dfs.cpp)
 - [dfs1.cpp](https://github.com/SageScroll18144/algorithm/blob/master/dfs1.cpp)
+
+## Find related component
+
+- [dfs_comp.cpp](https://github.com/SageScroll18144/algorithm/blob/master/dfs_comp.cpp)
 
 ## [DFS-Grid](https://medium.com/@ojhasaurabh2099/traversing-a-grid-using-dfs-ac7a391f7af8)
 
