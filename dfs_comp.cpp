@@ -7,12 +7,16 @@ const int maxn = 1e5+10;
 vector<int> graph[maxn];
 
 bool visited[maxn];
+int comp[maxn];
 
-void dfs(int u){
+void dfs(int u, int cc){
+
     visited[u] = true;
+    comp[u] = cc;
+
     for(auto node : graph[u]){
         if(!visited[node]){
-            dfs(node);
+            dfs(node, cc);
         }
     }
 
@@ -34,8 +38,17 @@ int main(){
         graph[v].push_back(u);
 
     }
+    
+    int cc = 0;
 
-    dfs(1);
+    for (int i = 1; i <= n; i++)
+    {
+        if(!visited[i]){
+            dfs(i, ++cc);
+        } 
+    }
+    printf("%d\n", (comp[1]==comp[3]));
+    cout<<cc;
 
     return 0;
 }
