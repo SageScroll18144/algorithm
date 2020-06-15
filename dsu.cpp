@@ -15,7 +15,7 @@ void dsBuild(){
 }
 
 int dsFind(int a){
-    if(ds[a] != a) ds[a] = dsFind(a);
+    if(ds[a] != a) ds[a] = dsFind(ds[a]);
     return ds[a];
 }
 void dsUnion(int a, int b){
