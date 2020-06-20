@@ -43,6 +43,10 @@ Repositório com alguns algoritmos para competição
 
 - [dijkstra.cpp](https://github.com/SageScroll18144/algorithm/blob/master/dijkstra.cpp)
 
+## [DSU or Union Find](https://pt.wikipedia.org/wiki/Uni%C3%A3o-busca)
+
+- [dsu.cpp](https://github.com/SageScroll18144/algorithm/blob/master/dsu.cpp)
+
 ## [Binary_Search](https://pt.wikipedia.org/wiki/Pesquisa_bin%C3%A1ria)
 
 - [bs.cpp](https://github.com/SageScroll18144/algorithm/blob/master/bs.cpp)
