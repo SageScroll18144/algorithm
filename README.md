@@ -47,6 +47,10 @@ Repositório com alguns algoritmos para competição
 
 - [dsu.cpp](https://github.com/SageScroll18144/algorithm/blob/master/dsu.cpp)
 
+## [Kruskal](https://www.ime.usp.br/~pf/algoritmos_para_grafos/aulas/kruskal.html)
+
+- [kruskal.cpp](https://github.com/SageScroll18144/algorithm/blob/master/kruskal.cpp)
+
 ## [Binary_Search](https://pt.wikipedia.org/wiki/Pesquisa_bin%C3%A1ria)
 
 - [bs.cpp](https://github.com/SageScroll18144/algorithm/blob/master/bs.cpp)
