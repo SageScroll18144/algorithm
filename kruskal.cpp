@@ -22,7 +22,7 @@ void dsUnion(int a, int b){
 
     ds[b] = a;
 }
-int kruskal(vector<pair<int, pair<int, int>>>& edges, int n){//edges -> < DISTANCIA de U para V>. Tamanho do Grafo(qtd de vertices)
+int kruskal(vector<pair<int, pair<int, int>>>& edges){//edges -> < DISTANCIA de U para V>.
     dsBuild();
     sort(edges.begin(), edges.end());
 
