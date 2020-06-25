@@ -54,3 +54,4 @@ Repositório com alguns algoritmos para competição
 ## [Binary_Search](https://pt.wikipedia.org/wiki/Pesquisa_bin%C3%A1ria)
 
 - [bs.cpp](https://github.com/SageScroll18144/algorithm/blob/master/bs.cpp)
+- [bs_it](https://github.com/SageScroll18144/algorithm/blob/master/bs_it.cpp)
