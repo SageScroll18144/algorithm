@@ -55,3 +55,7 @@ Repositório com alguns algoritmos para competição
 
 - [bs.cpp](https://github.com/SageScroll18144/algorithm/blob/master/bs.cpp)
 - [bs_it](https://github.com/SageScroll18144/algorithm/blob/master/bs_it.cpp)
+
+## [Min Max](https://pt.wikipedia.org/wiki/Minimax)
+
+- [minmax.cpp](https://github.com/SageScroll18144/algorithm/blob/master/minmax.cpp)
