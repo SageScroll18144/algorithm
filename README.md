@@ -47,6 +47,10 @@ Repositório com alguns algoritmos para competição
 
 - [floyd-warshall.cpp](https://github.com/SageScroll18144/algorithm/blob/master/floyd-warshall.cpp)
 
+## [Bellman-Ford](https://pt.wikipedia.org/wiki/Algoritmo_de_Bellman-Ford)
+
+- [bellman-ford.cpp](https://github.com/SageScroll18144/algorithm/blob/master/bellman-ford.cpp)
+
 ## [DSU or Union Find](https://pt.wikipedia.org/wiki/Uni%C3%A3o-busca)
 
 - [dsu.cpp](https://github.com/SageScroll18144/algorithm/blob/master/dsu.cpp)
