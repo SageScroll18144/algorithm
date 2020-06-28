@@ -43,6 +43,10 @@ Repositório com alguns algoritmos para competição
 
 - [dijkstra.cpp](https://github.com/SageScroll18144/algorithm/blob/master/dijkstra.cpp)
 
+## [Floyd-Warshall](https://pt.wikipedia.org/wiki/Algoritmo_de_Floyd-Warshall)
+
+- [floyd-warshall.cpp](https://github.com/SageScroll18144/algorithm/blob/master/floyd-warshall.cpp)
+
 ## [DSU or Union Find](https://pt.wikipedia.org/wiki/Uni%C3%A3o-busca)
 
 - [dsu.cpp](https://github.com/SageScroll18144/algorithm/blob/master/dsu.cpp)
