@@ -13,6 +13,13 @@ int n, m;
 void floyd_warshall(){
     for (int i = 0; i < n; i++){
         for (int j = 0; j < n; j++){
+            dist[i][j] = inf;
+        }
+        
+    }
+    
+    for (int i = 0; i < n; i++){
+        for (int j = 0; j < n; j++){
             if(i == j) dist[i][j] = 0;
             else dist[i][j] = pesos[i][j];
         }
