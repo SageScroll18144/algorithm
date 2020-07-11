@@ -75,6 +75,10 @@ Repositório com alguns algoritmos para competição
 
 - [lis.cpp](https://github.com/SageScroll18144/algorithm/blob/master/code/lis.cpp)
 
+### [LCS](https://www.geeksforgeeks.org/longest-common-subsequence-dp-4/)
+
+- [lcs.cpp](https://github.com/SageScroll18144/algorithm/blob/master/code/lcs.cpp)
+
 ### [Binary_Search](https://pt.wikipedia.org/wiki/Pesquisa_bin%C3%A1ria)
 
 #### Recursive
