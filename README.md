@@ -84,12 +84,12 @@ Repositório com alguns algoritmos para competição
 
 ### [MDC](https://pt.wikipedia.org/wiki/M%C3%ADnimo_m%C3%BAltiplo_comum)
 
-- [mdc.cpp](https://github.com/SageScroll18144/algorithm/blob/master/mdc.cpp) 
+- [mdc.cpp](https://github.com/SageScroll18144/algorithm/blob/master/code/mdc.cpp) 
 
 ### [MMC](https://pt.wikipedia.org/wiki/M%C3%A1ximo_divisor_comum)
 
-- [mmc.cpp](https://github.com/SageScroll18144/algorithm/blob/master/mmc.cpp)
+- [mmc.cpp](https://github.com/SageScroll18144/algorithm/blob/master/code/mmc.cpp)
 
 ### [Matrix Exponential](https://pt.wikipedia.org/wiki/Exponencial_matricial)
 
-- [matExp.cpp](https://github.com/SageScroll18144/algorithm/blob/master/matExp.cpp)
+- [matExp.cpp](https://github.com/SageScroll18144/algorithm/blob/master/code/matExp.cpp)
