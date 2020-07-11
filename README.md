@@ -25,9 +25,13 @@ Repositório com alguns algoritmos para competição
 
 - [bfs_min_path.cpp](https://github.com/SageScroll18144/algorithm/blob/master/code/bfs_min_path.cpp)
 
-### [Toposort](https://en.wikipedia.org/wiki/Topological_sorting)
+### [Toposort using BFS](https://en.wikipedia.org/wiki/Topological_sorting)
 
 - [toposort.cpp](https://github.com/SageScroll18144/algorithm/blob/master/code/toposort.cpp)
+
+### [Toposort using DFS](https://en.wikipedia.org/wiki/Topological_sorting)
+
+- [toposort_dfs.cpp](https://github.com/SageScroll18144/algorithm/blob/master/code/toposort_dfs.cpp)
 
 ### [Bicolorable Graph](https://www.geeksforgeeks.org/bipartite-graph/)
 
