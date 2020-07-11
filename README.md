@@ -77,7 +77,12 @@ Repositório com alguns algoritmos para competição
 
 ### [Binary_Search](https://pt.wikipedia.org/wiki/Pesquisa_bin%C3%A1ria)
 
+#### Recursive
+
 - [bs.cpp](https://github.com/SageScroll18144/algorithm/blob/master/code/bs.cpp)
+
+#### Iterative
+
 - [bs_it](https://github.com/SageScroll18144/algorithm/blob/master/code/bs_it.cpp)
 
 ### [Greedy Algorithm](https://www.ime.usp.br/~pf/analise_de_algoritmos/aulas/guloso.html)
