@@ -111,7 +111,7 @@ Repositório com alguns algoritmos para competição
 
 - [matExp.cpp](https://github.com/SageScroll18144/algorithm/blob/master/code/matExp.cpp)
 
-### Data Structures
+## Data Structures
 
 ### [DSU or Union Find](https://pt.wikipedia.org/wiki/Uni%C3%A3o-busca)
 
