@@ -57,10 +57,6 @@ Repositório com alguns algoritmos para competição
 
 - [bellman-ford.cpp](https://github.com/SageScroll18144/algorithm/blob/master/code/bellman-ford.cpp)
 
-### [DSU or Union Find](https://pt.wikipedia.org/wiki/Uni%C3%A3o-busca)
-
-- [dsu.cpp](https://github.com/SageScroll18144/algorithm/blob/master/code/dsu.cpp)
-
 ### [Kruskal](https://www.ime.usp.br/~pf/algoritmos_para_grafos/aulas/kruskal.html)
 
 - [kruskal.cpp](https://github.com/SageScroll18144/algorithm/blob/master/code/kruskal.cpp)
@@ -93,11 +89,19 @@ Repositório com alguns algoritmos para competição
 
 - [guloso.cpp](https://github.com/SageScroll18144/algorithm/blob/master/code/guloso.cpp)
 
+### [Merge Sort](https://neps.academy/lesson/160)
+
+- [mergesort.cpp](https://github.com/SageScroll18144/algorithm/blob/master/code/mergesort.cpp)
+
+### [Contagem de Inversões](https://neps.academy/lesson/166)
+
+- [contagem_inv.cpp](https://github.com/SageScroll18144/algorithm/blob/master/code/contagem_inv.cpp)
+
 ## Math
 
 ### [MDC](https://pt.wikipedia.org/wiki/M%C3%ADnimo_m%C3%BAltiplo_comum)
 
-- [mdc.cpp](https://github.com/SageScroll18144/algorithm/blob/master/code/mdc.cpp) 
+- [mdc.cpp](https://github.com/SageScroll18144/algorithm/blob/master/code/mdc.cpp)
 
 ### [MMC](https://pt.wikipedia.org/wiki/M%C3%A1ximo_divisor_comum)
 
@@ -106,3 +110,17 @@ Repositório com alguns algoritmos para competição
 ### [Matrix Exponential](https://pt.wikipedia.org/wiki/Exponencial_matricial)
 
 - [matExp.cpp](https://github.com/SageScroll18144/algorithm/blob/master/code/matExp.cpp)
+
+### Data Structures
+
+### [DSU or Union Find](https://pt.wikipedia.org/wiki/Uni%C3%A3o-busca)
+
+- [dsu.cpp](https://github.com/SageScroll18144/algorithm/blob/master/code/dsu.cpp)
+
+### [SegTree](https://en.wikipedia.org/wiki/Segment_tree)
+
+- [segtree.cpp](https://github.com/SageScroll18144/algorithm/blob/master/code/segtree.cpp)
+
+### [BIT](https://www.geeksforgeeks.org/binary-indexed-tree-or-fenwick-tree-2/)
+
+- [BIT.cpp](https://github.com/SageScroll18144/algorithm/blob/master/code/BIT.cpp)
