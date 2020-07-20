@@ -61,6 +61,14 @@ Repositório com alguns algoritmos para competição
 
 - [kruskal.cpp](https://github.com/SageScroll18144/algorithm/blob/master/code/kruskal.cpp)
 
+### [Eulerian Graph](https://pt.wikipedia.org/wiki/Caminho_euleriano)
+
+- [konigsberg.cpp](https://github.com/SageScroll18144/algorithm/blob/master/code/konigsberg.cpp)
+
+### [Eulerian Path](https://pt.wikipedia.org/wiki/Caminho_euleriano)
+
+- [euler_path.cpp](https://github.com/SageScroll18144/algorithm/blob/master/code/euler_path.cpp)
+
 ### [Min Max](https://pt.wikipedia.org/wiki/Minimax)
 
 - [minmax.cpp](https://github.com/SageScroll18144/algorithm/blob/master/code/minmax.cpp)
@@ -94,6 +102,8 @@ Repositório com alguns algoritmos para competição
 - [mergesort.cpp](https://github.com/SageScroll18144/algorithm/blob/master/code/mergesort.cpp)
 
 ### [Contagem de Inversões](https://neps.academy/lesson/166)
+
+#### Using Merge Sort
 
 - [contagem_inv.cpp](https://github.com/SageScroll18144/algorithm/blob/master/code/contagem_inv.cpp)
 
