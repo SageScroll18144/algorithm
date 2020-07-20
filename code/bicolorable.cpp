@@ -14,7 +14,7 @@ bool bicolorable(int u, bool color){
     mark[u] = true;
     colors[u] = color;
     for(auto v : graph[u]){
-        if(!mark[u]){
+        if(!mark[v]){
             if(!bicolorable(v, !color)) return false;
         }else if(colors[u] == colors[v]) return false;
     }
