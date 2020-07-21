@@ -107,6 +107,10 @@ Repositório com alguns algoritmos para competição
 
 - [contagem_inv.cpp](https://github.com/SageScroll18144/algorithm/blob/master/code/contagem_inv.cpp)
 
+#### Using Binary Index Tree
+
+- [contagem_inv_bit.cpp](https://github.com/SageScroll18144/algorithm/blob/master/code/contagem_inv_bit.cpp)
+
 ## Math
 
 ### [MDC](https://pt.wikipedia.org/wiki/M%C3%ADnimo_m%C3%BAltiplo_comum)
