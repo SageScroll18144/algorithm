@@ -138,3 +138,9 @@ Repositório com alguns algoritmos para competição
 ### [BIT](https://www.geeksforgeeks.org/binary-indexed-tree-or-fenwick-tree-2/)
 
 - [BIT.cpp](https://github.com/SageScroll18144/algorithm/blob/master/code/BIT.cpp)
+
+### Geometry
+
+### Point, Vector, Distance Euclidean
+
+- [point.cpp](https://github.com/SageScroll18144/algorithm/blob/master/code/point.cpp)

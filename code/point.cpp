@@ -39,7 +39,7 @@ double cross(point a, point b){
 }
 
 //distancia euclidiana
-double euclidian(point a, point b){
+double euclidean(point a, point b){
     return sqrt((a.x-b.x)*(a.x-b.x) + (a.y-b.y)*(a.y-b.y)); 
 }
 /*
