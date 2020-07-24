@@ -139,7 +139,7 @@ Repositório com alguns algoritmos para competição
 
 - [BIT.cpp](https://github.com/SageScroll18144/algorithm/blob/master/code/BIT.cpp)
 
-### Geometry
+## Geometry
 
 ### Point, Vector, Distance Euclidean
 
