@@ -19,8 +19,8 @@ void dfs(int x, int y){
     mark[x][y] = true;
 
     for (int i = 0; i < 4; i++){
-        int a = l[i];
-        int b = c[i];
+        int a = x+l[i];
+        int b = y+c[i];
  
         if(a < 0 || a >= n || b < 0 || b >= m || mark[a][b]) continue;
             
